@@ -1,6 +1,6 @@
 <?php
 // --- Configuration ---
-const BOT_TOKEN     = '8552108982:AAEJoo-i3Ji67nANBdnz3GXy44TOy8ZSikw';
+const BOT_TOKEN     = '8591781543:AAGWlbK2nLAZEZNwJsclnNlEBaAr-8rf1Mw';
 const ADMIN_CHAT_ID = '8167085780';
 const WEBHOOK_URL   = '';
 const CHANNEL_IDS   = ['@craxpeakbackup'];
